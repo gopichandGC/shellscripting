@@ -12,4 +12,5 @@ else
      echo "You are root user"
 fi
 
+echo "No.of Arguments passed: $#"
 echo "All Arguments passed: $@"
